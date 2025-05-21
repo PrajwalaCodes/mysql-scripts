@@ -1,0 +1,16 @@
+CountryCode,Country,Currency,ToUSD,ToINR
+1,India,Indian Rupees(Rs.),0.012,1
+14,Australia,Dollar($),0.62,54.3
+30,Brazil,Brazilian Real(R$),0.1753,15.0527
+37,Canada,Dollar($),0.69,60.45
+94,Indonesia,Indonesian Rupiah(IDR),0.00006,0.00533
+148,NewZealand,NewZealand($),0.57,49.79
+162,Philippines,Botswana Pula(P),0.0725,6.26
+166,Qatar,Qatari Rial(QR),0.27,23.89
+184,Singapore,Dollar($),0.74,64.72
+189,South Africa,Rand(R),0.054,0.21
+191,Sri Lanka,Sri Lankan Rupee(LKR),0.0034,0.29
+208,Turkey,Turkish Lira(TL),0.028,2.39
+214,United Arab Emirates,Emirati Diram(AED),0.27,23.74
+215,United Kingdom,Pounds(Œ£),1.26,109.931
+216,United States,Dollar($),1,87.19
